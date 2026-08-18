@@ -1,1 +1,1 @@
-Araştırma amaçlı veri setleri reposu (güncellenecek)
+Araştırma amaçlı veri setleri reposu (farklı veri setleri ile güncellenecek)
