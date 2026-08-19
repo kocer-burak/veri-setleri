@@ -1,4 +1,4 @@
-## Araştırma amaçlı veri setleri reposu (farklı veri setleri ile güncellenecek)
+## Araştırma amaçlı açık kaynaklı veri setleri reposu (farklı veri setleri ile güncellenecek)
 
 #### Tarih: 
 18.08.2026 
