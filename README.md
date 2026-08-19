@@ -1,6 +1,15 @@
 ## Araştırma amaçlı açık kaynaklı veri setleri reposu (farklı veri setleri ile güncellenecek)
 
 #### Tarih: 
+19.08.2026 
+#### Dosya: 
+[2025-2026-uniBolumUcret.xlsx](https://github.com/kocer-burak/veri-setleri/blob/main/2025-2026-uniBolumUcret.xlsx)
+#### İçerik:
+<img width="1991" height="993" alt="image" src="https://github.com/user-attachments/assets/ce79acac-493b-4003-81f0-2eb65987fc54" />
+
+---
+
+#### Tarih: 
 18.08.2026 
 #### Dosya: 
 [2026-yoktatlas.xlsx](https://github.com/kocer-burak/veri-setleri/blob/main/2026-yoktatlas.xlsx)
